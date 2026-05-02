@@ -1,0 +1,11 @@
+{
+  "name": "docker-app",
+  "version": "1.0.0",
+  "description": "This is a Node.js → Docker → ECR → ECS → CI/CD project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
